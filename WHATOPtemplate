@@ -10,6 +10,14 @@
       "y": -300
     }
   ],
-  "whitelist": [],
+  "whitelist": [try modifying the whitelist section so it looks like this:
+```
+"whitelist": [
+    {
+      "name": "twentyonepilots",
+      "url": "https://www.reddit.com/r/twentyonepilots"
+    }
+],
+```],
   "blacklist": []
 }
