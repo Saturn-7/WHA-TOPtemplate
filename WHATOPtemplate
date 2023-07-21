@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "Coco and TOP template (temporary)",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131420575718453398/1131952269114474597/Coco_8__TOP.png"
+      ],
+      "x": 480,
+      "y": -250
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
