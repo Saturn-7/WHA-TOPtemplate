@@ -1,13 +1,15 @@
 {
-  "contact": "@Chromatic_Flare (discord)",
+  "contact": "contact info",
   "templates": [
     {
-      "name": "CocoAndTwentyOnePilots(Art by @fiopico)",
+      "name": "name",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131420575718453398/1131952269114474597/Coco_8__TOP.png"
       ],
-      "x": 500,
-      "y": -300
+      "x": 977,
+      "y": 149
     }
-  ]
+  ],
+  "whitelist": [],
+  "blacklist": []
 }
