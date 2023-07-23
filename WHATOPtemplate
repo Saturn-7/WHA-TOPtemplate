@@ -2,7 +2,7 @@
   "contact": "contact info",
   "templates": [
     {
-      "name": "name",
+      "name": "Coco, MOS, and TOP",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131688728067309580/1132400827185774632/Coco_16__TOP_Cropped.png"
       ],
@@ -10,12 +10,12 @@
       "y": 649
     },
     {
-      "name": "bug",
+      "name": "Brushbug",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131420575718453398/1132450134958026883/Bug.png"
       ],
       "x": 1767,
-      "y": 326
+      "y": 324
     }
   ],
   "whitelist": [],
