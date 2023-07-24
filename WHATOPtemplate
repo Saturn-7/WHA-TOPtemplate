@@ -16,6 +16,14 @@
       ],
       "x": 2101,
       "y": 1885
+    },
+    {
+      "name": "Brushbug, by u/Chromatic_Flare & the /r/WitchHatAtelier discord",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131420575718453398/1133183211204264127/WHA_Hat.png"
+      ],
+      "x": 2261,
+      "y": 1824
     }
   ],
   "whitelist": [],
